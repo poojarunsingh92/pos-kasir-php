@@ -114,3 +114,5 @@ Gunakan Aplikasi dengan bijak, dan Selamat Belajar
 
 dwda
 awk
+
+awk
