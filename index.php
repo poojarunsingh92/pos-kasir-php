@@ -1,6 +1,6 @@
 <?php 
 /*
-  | Source Code Aplikasi Penjualan Barang Kasir dengan PHP & MYSQL
+  | Source Code Aplikasi Penjualan Barang Kasir dengan PHP & MYSQL..
   | 
   | @package   : pos-kasir-php
   | @file	   : index.php 
