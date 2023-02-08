@@ -59,6 +59,3 @@ spec:
     - protocol: TCP
       port: 80
       targetPort: 80
-                                                                                                                                                                     61,20         Bot
-
-
